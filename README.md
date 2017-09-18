@@ -17,6 +17,7 @@ A really simple, lightweight Angular pipe for converting a date string into a ti
 |45 - 345 days              | XM  |
 |345 - 545 days (1.5 years) | 1Y  |
 |546 days+                  | XY  |
+
 ##Installation
 ```npm install time-ago-pipe --save```
 
